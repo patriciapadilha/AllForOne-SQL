@@ -6,12 +6,12 @@
 
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt='icone do MySQL'>
 
-
 ---
 
 ### Sobre o desenvolvimento:
 <font color="orange">Montar queries para encontrar as informações esperadas pelos desafios.</font>
 
+![db](northwind.png)
 ___
 
 #### **Todos os comandos utilizados estão no diretório / numerados por requisito.**
